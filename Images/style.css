@@ -1,0 +1,24 @@
+body{
+   background-image: url(https://th.bing.com/th/id/R.0be48ceb579f746ed568817c68ecd6fb?rik=%2b54xwXk%2foaclRQ&riu=http%3a%2f%2fwww.indezine.com%2fpowerpoint%2ftemplates%2ftemplates%2ft_ind_0046a.jpg&ehk=6eMg39RYRnznV%2bSGl6%2fR%2feUZzV7G1mqee8er5oLm764%3d&risl=&pid=ImgRaw);
+        }
+    .header{
+        
+        display : flex;
+        justify-content: space-between;
+        
+    }
+    .item{
+      
+      font-family: cursive;
+      background-color:whitesmoke;
+      display : flex;
+      align-self: center;
+      justify-content: space-between;
+    }
+    
+    .grid{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+   
